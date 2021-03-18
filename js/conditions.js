@@ -1,8 +1,8 @@
 // Task 1 Если а – четное посчитать а*б, иначе а+б
-var a = 4;
-var b = 2;
-var result = a % 2 === 0 ? a * b : a + b;
-console.log(result)
+// var a = 4;
+// var b = 2;
+// var result = a % 2 === 0 ? a * b : a + b;
+// console.log(result)
 
 
 
